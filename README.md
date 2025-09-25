@@ -10,19 +10,19 @@ This project demonstrates a **K-Nearest Neighbors (KNN)** clasifier on the **PBC
 - 5-fold cross-validation
 - Hyperparameter tuning using GridSearchCv
 
-  ## Results
+## Results
 
-  - Accuracy achieved: ≈0.93
-  - Best configuration: Manhattan distance metric, 1 neighbor, distance weight
+- Accuracy achieved: ≈0.93
+- Best configuration: Manhattan distance metric, 1 neighbor, distance weight
  
-    ## How to run
+## How to run
 
-    1. Clone or download the repo
-    2. Open the notebook 'pbcseq__knn.ipnyb' in Jupyter
-    3. Run all cells sequetially
+1. Clone or download the repo
+2. Open the notebook 'pbcseq__knn.ipnyb' in Jupyter
+3. Run all cells sequetially
    
-    ## Key Takeaways
+## Key Takeaways
 
-    - Feature scaling is essential for distance-based models like KNN
-    - Cross-validation gives a robust estimate of a models performance
-    - Proper preprocessing greatly affects model accuracy
+- Feature scaling is essential for distance-based models like KNN
+- Cross-validation gives a robust estimate of a models performance
+- Proper preprocessing greatly affects model accuracy
