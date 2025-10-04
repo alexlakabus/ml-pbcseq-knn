@@ -1,6 +1,6 @@
 # PBCSeq KNN Classification
 
-This project demonstrates a **K-Nearest Neighbors (KNN)** clasifier on the **PBCSeq dataset**, handling missing values, scaling numerical features, encoding categorical features, and tuning hyperparameters with **GridSearchCV**.
+This project demonstrates a **K-Nearest Neighbors (KNN)** classifier on the **PBCSeq dataset**, handling missing values, scaling numerical features, encoding categorical features, and tuning hyperparameters with **GridSearchCV**.
 
 ## Key Features
 
